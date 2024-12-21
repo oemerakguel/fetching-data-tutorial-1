@@ -36,3 +36,6 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+#album-list{
+    list-style-type: none;
+}
